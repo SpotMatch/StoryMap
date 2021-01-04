@@ -3,4 +3,4 @@ var googleDocURL = 'https://docs.google.com/spreadsheets/d/10ppEeoftrEZZz6GZDgjn
 
 // insert your own Google Sheets API key from https://console.developers.google.com
 // HIER AUF GITHUB IST DER BEISPIEL-KEY IN VERWENDUNG – UNBEDINGT BEIM UMZUG IN EIGENEN KEY UMWANDELN!
-var googleApiKey = 'AIzaSyArkvY9bkZprvBfknKoM8YHqFIP-kSraO4';
+var googleApiKey = 'AIzaSyAtJarj0kmrj8KxD8kHrTjwhsEMiCTwJ94';
