@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://spotmatch.github.io/storymap/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1mW7uBmv3pn8iwLzg9H8C7SqtTrtLWl__C2N0jJ_F_0k/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/10ppEeoftrEZZz6GZDgjnNaKpK1rrm9H9OJmfpQiZJlM/edit#gid=0
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
